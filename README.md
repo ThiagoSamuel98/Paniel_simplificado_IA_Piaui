@@ -1,0 +1,3 @@
+# Monitor IA no Piauí — Dashboard (Streamlit)
+
+Um painel simples para monitorar menções, e saber se foram: neutras, positivas e negativas sobre "Inteligência Artificial no Piauí" em fontes públicas (Google Notícias RSS)...
